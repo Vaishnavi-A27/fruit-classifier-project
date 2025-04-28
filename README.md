@@ -1,1 +1,4 @@
-# fruit-classifier-project
+Image classification plays a vital part in the detection and segregation of fruits for their quality by considering parameters such as color, shape, deformation and scabs We compare two techniques, CNN and Transfer Learning, to develop a model that can do these tasks quickly and efficiently. With an accuracy of 92.66, the CNN technique requires a large data set, as well as a lot of computing power, GPU, and time. When given a small data set, low computing resources, and a GPU, transfer learning performs better, with an accuracy of 99.58 in substantially less time. By evaluating the model, we can affirm that a combination of Transfer Learning with fine tuning enhances the performance of the classification model.
+
+Keywords— Accuracy, Convolutional Neural Network (CNN), Fine-tuning, Processing power, Transfer Learning (TL).
+LINK: https://www.ijaresm.com/a-comparative-study-on-cnn-and-transfer-learning-models-for-image-classification-to-detect-quality-of-fruits 
